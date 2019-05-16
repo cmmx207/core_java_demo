@@ -24,12 +24,12 @@ public class ReflectionTest {
         try {
             // print class name and superclass name (if != Object)
             Class cl = Class.forName(name);
-            Class supercl = cl.getSuperclass();
+            Class supercl = cl.getSuperclass();//父类class
             String modifiers = Modifier.toString(cl.getModifiers());
-            if (modifiers.length() > 0) System.out.print(modifiers + " ");
-            System.out.print("class " + name);
+            if (modifiers.length() > 0) System.out.print("modifiers = " + modifiers + " ");//public final
+            System.out.print("class " + name);//e.g java.lang.Byte
             if (supercl != null && supercl != Object.class) System.out.print(" extends "
-                    + supercl.getName());
+                    + supercl.getName());//e.g java.lang.Number
 
             System.out.print("\n{\n");
             printConstructors(cl);
@@ -50,17 +50,17 @@ public class ReflectionTest {
      * @param cl a class
      */
     public static void printConstructors(Class cl) {
-        Constructor[] constructors = cl.getDeclaredConstructors();
+        Constructor[] constructors = cl.getDeclaredConstructors();//获取构造器
 
         for (Constructor c : constructors) {
             String name = c.getName();
             System.out.print("   ");
-            String modifiers = Modifier.toString(c.getModifiers());
+            String modifiers = Modifier.toString(c.getModifiers());//public final
             if (modifiers.length() > 0) System.out.print(modifiers + " ");
             System.out.print(name + "(");
 
             // print parameter types
-            Class[] paramTypes = c.getParameterTypes();
+            Class[] paramTypes = c.getParameterTypes();//此处是构造器参数类型
             for (int j = 0; j < paramTypes.length; j++) {
                 if (j > 0) System.out.print(", ");
                 System.out.print(paramTypes[j].getName());
@@ -78,7 +78,7 @@ public class ReflectionTest {
         Method[] methods = cl.getDeclaredMethods();
 
         for (Method m : methods) {
-            Class retType = m.getReturnType();
+            Class retType = m.getReturnType();//方法返回值
             String name = m.getName();
 
             System.out.print("   ");
