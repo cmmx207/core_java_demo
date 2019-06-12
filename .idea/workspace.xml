@@ -15,11 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/v1ch06_Interface_Lambda_InnerClass/anonymousInnerClass_6_4/AnonymousInnerClassTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/v1ch07_Exception/logging/LoggingImageViewer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="27" column="53" lean-forward="true" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+            <state>
+              <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/v1ch07_Exception/stackTrace/StackTraceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="703">
+              <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -48,14 +57,14 @@
         <option value="$PROJECT_DIR$/src/v1ch06_Interface_Lambda_InnerClass/callback/Teacher_Student/CallBackTest.java" />
         <option value="$PROJECT_DIR$/src/v1ch06_Interface_Lambda_InnerClass/callback/Teacher_Student/Student.java" />
         <option value="$PROJECT_DIR$/src/v1ch06_Interface_Lambda_InnerClass/callback/Teacher_Student/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/v1ch06_Interface_Lambda_InnerClass/proxy_6_6/ProxyTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -66,7 +75,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -81,39 +89,19 @@
             </path>
             <path>
               <item name="core_java_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="core_java_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="v1ch06_Interface_Lambda_InnerClass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="core_java_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="core_java_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="v1ch06_Interface_Lambda_InnerClass" type="462c0819:PsiDirectoryNode" />
-              <item name="anonymousInnerClass_6_4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="core_java_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="core_java_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="v1ch06_Interface_Lambda_InnerClass" type="462c0819:PsiDirectoryNode" />
-              <item name="anonymousInnerClass_6_4" type="462c0819:PsiDirectoryNode" />
-              <item name="AnonymousInnerClassTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="core_java_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559020702173" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560314592276" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -124,11 +112,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\core_java_demo\src\v1ch06_Interface_Lambda_InnerClass\anonymousInnerClass_6_4" />
-      <recent name="F:\core_java_demo\src\v1ch06_Interface_Lambda_InnerClass\innerclass_6_3" />
-      <recent name="F:\core_java_demo\src\v1ch06_Interface_Lambda_InnerClass\timer_6_2" />
-      <recent name="F:\core_java_demo\src\v1ch06_Interface_Lambda_InnerClass\interfaces_6_1" />
-      <recent name="F:\core_java_demo\src\v1ch05\MethodTableTest_5_8" />
+      <recent name="F:\core_java_demo\src\v1ch07_Exception\stackTrace" />
+      <recent name="F:\core_java_demo\src\v1ch07_Exception\logging" />
+      <recent name="F:\core_java_demo\src\v1ch07_Exception\exceptional" />
+      <recent name="F:\core_java_demo\src\v1ch07_Exception\except" />
+      <recent name="F:\core_java_demo\src\v1ch06_Interface_Lambda_InnerClass\proxy_6_6" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -143,13 +131,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AnonymousInnerClassTest">
-    <configuration name="AnonymousInnerClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="v1ch06_Interface_Lambda_InnerClass.anonymousInnerClass_6_4.AnonymousInnerClassTest" />
+  <component name="RunManager" selected="Application.StackTraceTest">
+    <configuration name="ExceptTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v1ch07_Exception.except.ExceptTest" />
       <module name="core_java_demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="v1ch06_Interface_Lambda_InnerClass.anonymousInnerClass_6_4.*" />
+          <option name="PATTERN" value="v1ch07_Exception.except.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CallBackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="v1ch06_Interface_Lambda_InnerClass.callback.Teacher_Student.CallBackTest" />
+    <configuration name="ExceptionalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v1ch07_Exception.exceptional.ExceptionalTest" />
       <module name="core_java_demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="v1ch06_Interface_Lambda_InnerClass.callback.Teacher_Student.*" />
+          <option name="PATTERN" value="v1ch07_Exception.exceptional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeSortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="v1ch06_Interface_Lambda_InnerClass.interfaces_6_1.EmployeeSortTest" />
+    <configuration name="LoggingImageViewer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v1ch07_Exception.logging.LoggingImageViewer" />
       <module name="core_java_demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="v1ch06_Interface_Lambda_InnerClass.interfaces_6_1.*" />
+          <option name="PATTERN" value="v1ch07_Exception.logging.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InnerClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="v1ch06_Interface_Lambda_InnerClass.innerclass_6_3.InnerClassTest" />
+    <configuration name="ProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v1ch06_Interface_Lambda_InnerClass.proxy_6_6.ProxyTest" />
       <module name="core_java_demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="v1ch06_Interface_Lambda_InnerClass.innerclass_6_3.*" />
+          <option name="PATTERN" value="v1ch06_Interface_Lambda_InnerClass.proxy_6_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="v1ch06_Interface_Lambda_InnerClass.timer_6_2.TimerTest" />
+    <configuration name="StackTraceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v1ch07_Exception.stackTrace.StackTraceTest" />
       <module name="core_java_demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="v1ch06_Interface_Lambda_InnerClass.timer_6_2.*" />
+          <option name="PATTERN" value="v1ch07_Exception.stackTrace.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AnonymousInnerClassTest" />
-        <item itemvalue="Application.InnerClassTest" />
-        <item itemvalue="Application.CallBackTest" />
-        <item itemvalue="Application.TimerTest" />
-        <item itemvalue="Application.EmployeeSortTest" />
+        <item itemvalue="Application.StackTraceTest" />
+        <item itemvalue="Application.LoggingImageViewer" />
+        <item itemvalue="Application.ExceptionalTest" />
+        <item itemvalue="Application.ExceptTest" />
+        <item itemvalue="Application.ProxyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -238,11 +226,17 @@
       <workItem from="1558924705088" duration="1790000" />
       <workItem from="1559009140322" duration="3824000" />
       <workItem from="1559026661823" duration="1117000" />
+      <workItem from="1559093177824" duration="14089000" />
+      <workItem from="1559181269217" duration="10872000" />
+      <workItem from="1559265743042" duration="14329000" />
+      <workItem from="1559526109122" duration="12735000" />
+      <workItem from="1559700287011" duration="599000" />
+      <workItem from="1560228204496" duration="4259000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56088000" />
+    <option name="totallyTimeSpent" value="112971000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -257,8 +251,8 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48867315" visible="true" weight="0.27132195" />
-      <window_info id="Structure" order="1" sideWeight="0.51132685" side_tool="true" visible="true" weight="0.27132195" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48264644" visible="true" weight="0.28997868" />
+      <window_info id="Structure" order="1" sideWeight="0.5173536" side_tool="true" visible="true" weight="0.28997868" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -267,14 +261,14 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.29067245" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.2505423" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.2505423" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.329718" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.3991323" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.329718" />
@@ -300,6 +294,54 @@
           <line>19</line>
           <properties />
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/v1ch07_Exception/except/ExceptTest.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/v1ch07_Exception/except/ExceptTest.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/v1ch07_Exception/except/ExceptTest.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/v1ch07_Exception/except/ExceptTest.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/v1ch07_Exception/except/ExceptTest.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/v1ch07_Exception/except/ExceptTest.java</url>
+          <line>100</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/v1ch07_Exception/exceptional/ExceptionalTest.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/v1ch07_Exception/exceptional/ExceptionalTest.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -435,13 +477,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/JAVA/JDK1.8/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="1245" column="29" selection-start-line="1245" selection-start-column="12" selection-end-line="1245" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/v1ch06_Interface_Lambda_InnerClass/interfaces_6_1/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="311">
@@ -554,10 +589,97 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/v1ch06_Interface_Lambda_InnerClass/static_inner_class_6_5/StaticInnerClassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/v1ch06_Interface_Lambda_InnerClass/anonymousInnerClass_6_4/AnonymousInnerClassTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
-          <caret line="27" column="53" lean-forward="true" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+          <caret line="27" column="53" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/JAVA/JDK1.8/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-274">
+          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/JAVA/JDK1.8/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="2433" column="26" selection-start-line="2433" selection-start-column="22" selection-end-line="2433" selection-end-column="26" />
+          <folding>
+            <element signature="e#111724#111725#0" expanded="true" />
+            <element signature="e#111781#111782#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v1ch06_Interface_Lambda_InnerClass/proxy_6_6/ProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="55" column="2" selection-start-line="55" selection-start-column="2" selection-end-line="55" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v1ch07_Exception/except/ExceptTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-631">
+          <caret line="84" column="45" selection-start-line="84" selection-start-column="36" selection-end-line="84" selection-end-column="45" />
+          <folding>
+            <element signature="e#1352#1353#0" expanded="true" />
+            <element signature="e#1415#1416#0" expanded="true" />
+            <element signature="e#1588#1589#0" expanded="true" />
+            <element signature="e#1646#1647#0" expanded="true" />
+            <element signature="e#1802#1803#0" expanded="true" />
+            <element signature="e#1845#1846#0" expanded="true" />
+            <element signature="e#1997#1998#0" expanded="true" />
+            <element signature="e#2060#2061#0" expanded="true" />
+            <element signature="e#2216#2217#0" expanded="true" />
+            <element signature="e#2299#2300#0" expanded="true" />
+            <element signature="e#2451#2452#0" expanded="true" />
+            <element signature="e#2502#2503#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/JAVA/JDK1.8/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+          <folding>
+            <element signature="e#2872#2873#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v1ch07_Exception/exceptional/ExceptionalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v1ch07_Exception/logging/LoggingImageViewer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/-qid=minitop.url">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v1ch07_Exception/stackTrace/StackTraceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
         </state>
       </provider>
     </entry>
